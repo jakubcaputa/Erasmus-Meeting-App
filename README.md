@@ -1,1 +1,2 @@
 # Erasmus-Meeting-App
+Requirements:
