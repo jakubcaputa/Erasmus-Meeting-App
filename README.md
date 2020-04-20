@@ -26,12 +26,14 @@
 20. The user is able to mark himself/herself on the photo from event <br/>
 21. The user is able to download photos from an event <br/>
 22. The user is able to add other users as his friends <br/>
-
-23. The user is able to create an event <br/>
-24. The user is able to create an event <br/>
-25. The user is able to create an event <br/>
-26. The user is able to create an event <br/>
-27. The user is able to create an event <br/>
-28. The user is able to create an event <br/>
-29. The user is able to create an event <br/>
-30. The user is able to create an event <br/>
+23. The host is able to send email updates about the event >br/>
+24. The application automatically sends email notifications to users attending an event if event details change. <br/>
+25. User is able to comment on event prior to event, IFF user is attending event. <br/>
+26. User can share events on other social media platforms. <br/>
+27. Host can share their event on other social media platforms. </br>
+28. Host is able to assign/declare fees for the event. <br/>
+29. Users can pay event fees through the service. <br/>
+30. Administrator can verify hosts. <br/>
+31. Hosts can request verification. <br/>
+32. Hosts can accept payment with verification. <br/>
+33. Users can get refunded from events up to 24 hours before the event start time. <br/>
